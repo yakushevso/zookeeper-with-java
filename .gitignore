@@ -1,0 +1,19 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+/gradle/
+/gradlew
+/gradlew.bat
+build
+out
+
+# idea config
+.idea
+
+# stages
+/Zookeeper with Java/Print first lines of code/
+/Zookeeper with Java/Print an image of the animal/
+/Zookeeper with Java/Show where animals live/
+/Zookeeper with Java/Set the program for zoo staff/
